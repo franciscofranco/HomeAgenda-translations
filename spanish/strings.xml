@@ -1,0 +1,27 @@
+<resources>
+    <string name="options">Opciones</string>
+    <string name="configure">Configurar</string>
+    <string name="add_widget">Agregar widget</string>
+    <string name="event_time">Desde %1$s</string>
+    <string name="event_location">En %1$s</string>
+    <string name="meeting_with_tim_cook">Almuerzo con Tim Cook</string>
+    <string name="all_day">Todo el día</string>
+    <string name="time">Tiempo</string>
+    <string name="show_past_events">Mostrar eventos pasados</string>
+    <string name="calendars">Calendarios</string>
+    <string name="appearance">Apariencia</string>
+    <string name="preview">Vista previa</string>
+    <string name="highlight_today_events">Sobresaltar eventos de hoy</string>
+    <string name="window_opacity">Opacidad de ventana</string>
+    <string name="default_window_opacity_title">Reiniciar opacidad de ventana</string>
+    <string name="dinner_with_sundar_pichai">Gira por el Google HQ con Sundar Pichai</string>
+    <string name="calendar_permission_rationale">Es un tanto necesario, ¡de lo contrario nada en esta aplicación podrá funcionar!</string>
+    <string name="cancel">Cancelar</string>
+    <string name="calendar_permission_rationale_title">Permiso para poder leer el calendario que hace falta</string>
+    <string name="welcome_title">Saludos, ¡vamos a empezar!</string>
+    <string name="start">Comenzar</string>
+    <string name="show_event_colors">Mostrar color de evento</string>
+    <string name="show_only_today_tomorrow">Mostrar solo hoy &amp; mañana</string>
+    <string name="today">Hoy</string>
+    <string name="to">a</string>
+</resources>
