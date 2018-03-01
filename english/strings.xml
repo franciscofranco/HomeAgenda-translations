@@ -1,7 +1,5 @@
 <resources>
     <string name="options">Options</string>
-    <string name="configure">Configure</string>
-    <string name="add_widget">Add widget</string>
     <string name="event_time">From %1$s to %2$s</string>
     <string name="event_location">in %1$s</string>
     <string name="meeting_with_tim_cook">Lunch with Tim Cook</string>
@@ -23,7 +21,6 @@
     <string name="show_event_colors">Show event color</string>
     <string name="show_only_today_tomorrow">Show only today &amp; tomorrow</string>
     <string name="today">Today</string>
-    <string name="to">to</string>
     <string name="show_toolbar">Show toolbar</string>
     <string name="toolbar_appearance">Toolbar appearance</string>
     <string name="toolbar_opacity">Toolbar opacity</string>

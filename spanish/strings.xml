@@ -1,7 +1,5 @@
 <resources>
     <string name="options">Opciones</string>
-    <string name="configure">Configurar</string>
-    <string name="add_widget">Agregar widget</string>
     <string name="event_time">Desde %1$s</string>
     <string name="event_location">En %1$s</string>
     <string name="meeting_with_tim_cook">Almuerzo con Tim Cook</string>
@@ -23,7 +21,6 @@
     <string name="show_event_colors">Mostrar color de evento</string>
     <string name="show_only_today_tomorrow">Mostrar solo hoy &amp; mañana</string>
     <string name="today">Hoy</string>
-    <string name="to">a</string>
     <string name="show_toolbar">Mostrar la barra de herramientas</string>
     <string name="toolbar_appearance">Apariencia de la barra de herramientas</string>
     <string name="toolbar_opacity">Opacidad de la barra de harramientas</string>

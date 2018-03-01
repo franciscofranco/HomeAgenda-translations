@@ -1,7 +1,5 @@
 <resources>
     <string name="options">Настройки</string>
-    <string name="configure">Изменить</string>
-    <string name="add_widget">Добавить виджет</string>
     <string name="event_time">С %1$s</string>
     <string name="event_location">в %1$s</string>
     <string name="meeting_with_tim_cook">Обед с Тимом Куком</string>
@@ -23,7 +21,6 @@
     <string name="show_event_colors">Показывать цвет мероприятия</string>
     <string name="show_only_today_tomorrow">Показывать только сегодня и завтра</string>
     <string name="today">Сегодня</string>
-    <string name="to">до</string>
     <string name="show_toolbar">Показывать тулбар</string>
     <string name="toolbar_appearance">Внешний вид тулбара</string>
     <string name="toolbar_opacity">Прозрачность тулбара</string>
