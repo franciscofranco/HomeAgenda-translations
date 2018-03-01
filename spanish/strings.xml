@@ -24,4 +24,12 @@
     <string name="show_only_today_tomorrow">Mostrar solo hoy &amp; mañana</string>
     <string name="today">Hoy</string>
     <string name="to">a</string>
+    <string name="show_toolbar">Mostrar la barra de herramientas</string>
+    <string name="toolbar_appearance">Apariencia de la barra de herramientas</string>
+    <string name="toolbar_opacity">Opacidad de la barra de harramientas</string>
+    <string name="default_toolbar_opacity_title">Reiniciar la opacidad de la barra de herramientas</string>
+    <string name="toolbar_title_size">Tamaño de título</string>
+    <string name="default_toolbar_title_size">Reiniciar el tamaño de título</string>
+    <string name="compact_mode_title">Modo compacto</string>
+    <string name="compact_mode_summary">Establecer título y localización en una sola línea cada uno y el tamaño de la elipse al final</string>
 </resources>
