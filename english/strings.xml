@@ -29,4 +29,5 @@
     <string name="default_toolbar_title_size">Reset title size</string>
     <string name="compact_mode_title">Compact mode</string>
     <string name="compact_mode_summary">Title and location set to use just one line each and ellipsize at the end</string>
+    <string name="reverse_theme_title">Light theme</string>
 </resources>

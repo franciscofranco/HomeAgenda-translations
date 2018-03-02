@@ -29,4 +29,5 @@
     <string name="default_toolbar_title_size">Сбросить настройки размера заголовка</string>
     <string name="compact_mode_title">Компактный режим</string>
     <string name="compact_mode_summary">Отображать текст заголовка и местоположения в одну строку</string>
+    <string name="reverse_theme_title">Легкая тема</string>
 </resources>

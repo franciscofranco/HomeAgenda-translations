@@ -29,4 +29,5 @@
     <string name="default_toolbar_title_size">Reiniciar el tamaño de título</string>
     <string name="compact_mode_title">Modo compacto</string>
     <string name="compact_mode_summary">Establecer título y localización en una sola línea cada uno y el tamaño de la elipse al final</string>
+    <string name="reverse_theme_title">Tema claro</string>
 </resources>
