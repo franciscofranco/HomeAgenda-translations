@@ -1,14 +1,14 @@
 <resources>
     <string name="options">Настройки</string>
-    <string name="event_time">С %1$s</string>
-    <string name="event_location">в %1$s</string>
+    <string name="event_time">С %1$s до %2$s</string>
+    <string name="event_location">%1$s</string>
     <string name="meeting_with_tim_cook">Обед с Тимом Куком</string>
     <string name="all_day">Весь день</string>
     <string name="time">Время</string>
     <string name="show_past_events">Показывать прошедшие мероприятия</string>
     <string name="calendars">Календари</string>
     <string name="appearance">Внешний вид</string>
-    <string name="preview">Превью</string>
+    <string name="preview">Предпросмотр</string>
     <string name="highlight_today_events">План мероприятий на сегодня</string>
     <string name="window_opacity">Прозрачность виджета</string>
     <string name="default_window_opacity_title">Сбросить настройки прозрачности виджета</string>
@@ -29,5 +29,5 @@
     <string name="default_toolbar_title_size">Сбросить настройки размера заголовка</string>
     <string name="compact_mode_title">Компактный режим</string>
     <string name="compact_mode_summary">Отображать текст заголовка и местоположения в одну строку</string>
-    <string name="reverse_theme_title">Легкая тема</string>
+    <string name="reverse_theme_title">Светлая тема</string>
 </resources>
