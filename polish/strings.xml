@@ -1,0 +1,33 @@
+<resources>
+    <string name="options">Ustawienia</string>
+    <string name="event_time">Od %1$s do %2$s</string>
+    <string name="event_location">w %1$s</string>
+    <string name="meeting_with_tim_cook">Lunch z Timem Cookiem</string>
+    <string name="all_day">Cały dzień</string>
+    <string name="time">Czas</string>
+    <string name="show_past_events">Pokazuj ubiegłe wydarzenia</string>
+    <string name="calendars">Kalendarze</string>
+    <string name="appearance">Wygląd</string>
+    <string name="preview">Podgląd</string>
+    <string name="highlight_today_events">Podświetlaj dzisiejsze wydarzenia</string>
+    <string name="window_opacity">Przezroczystość okna</string>
+    <string name="default_window_opacity_title">Przywróć domyślną przezroczystość okna</string>
+    <string name="dinner_with_sundar_pichai">Wycieczka po kwaterze głównej Google z Sundarem Pichaiem</string>
+    <string name="calendar_permission_rationale">Jest dosyć potrzebne, inaczej aplikacja nie będzie działać!</string>
+    <string name="cancel">Anuluj</string>
+    <string name="calendar_permission_rationale_title">Brakujące uprawnienie dostępu do kalendarza</string>
+    <string name="welcome_title">Witaj, zaczynajmy!</string>
+    <string name="start">Start</string>
+    <string name="show_event_colors">Pokazuj kolor wydarzenia</string>
+    <string name="show_only_today_tomorrow">Pokazuj tylko dziś i jutro</string>
+    <string name="today">Dzisiaj</string>
+    <string name="show_toolbar">Pokazuj pasek narzędzi</string>
+    <string name="toolbar_appearance">Wygląd paska narzędzi</string>
+    <string name="toolbar_opacity">Przezroczystość paska narzędzi</string>
+    <string name="default_toolbar_opacity_title">Przywróć domyślną przezroczystość paska narzędzi</string>
+    <string name="toolbar_title_size">Rozmiar nagłówka</string>
+    <string name="default_toolbar_title_size">Przywróć domyślny rozmiar nagłówka</string>
+    <string name="compact_mode_title">Tryb kompaktowy</string>
+    <string name="compact_mode_summary">Nazwa i miejsce zajmują po jednej linijce, z wielokropkami na końcu</string>
+    <string name="reverse_theme_title">Jasny motyw</string>
+</resources>
