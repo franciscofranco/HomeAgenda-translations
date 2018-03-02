@@ -1,0 +1,33 @@
+<resources>
+    <string name="options">Optionen</string>
+    <string name="event_time">Von %1$s bis %2$s</string>
+    <string name="event_location">in %1$s</string>
+    <string name="meeting_with_tim_cook">Mittagessen mit Tim Cook</string>
+    <string name="all_day">Den ganzen Tag</string>
+    <string name="time">Uhrzeit</string>
+    <string name="show_past_events">Vergangene Ereignisse anzeigen</string>
+    <string name="calendars">Kalender</string>
+    <string name="appearance">Darstellung</string>
+    <string name="preview">Vorschau</string>
+    <string name="highlight_today_events">Heutige Ereignisse hervorheben</string>
+    <string name="window_opacity">Fensterdurchsichtigkeit</string>
+    <string name="default_window_opacity_title">Fensterdurchsichtigkeit zurücksetzen</string>
+    <string name="dinner_with_sundar_pichai">Google Hauptsitz Besichtigung mit Sundar Pichai</string>
+    <string name="calendar_permission_rationale">Wir brauchen diese Berechtigung, sonst wird nichts in dieser App funktionieren!</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="calendar_permission_rationale_title">Die Berechtigung um den Kalender zu lesen fehlt.</string>
+    <string name="welcome_title">Grüß dich, dann beginnen wir mal!</string>
+    <string name="start">Start</string>
+    <string name="show_event_colors">Ereignisfarben anzeigen</string>
+    <string name="show_only_today_tomorrow">Nur heute und morgen anzeigen</string>
+    <string name="today">Heute</string>
+    <string name="show_toolbar">Symbolleiste anzeigen</string>
+    <string name="toolbar_appearance">Darstellung der Symbolleiste</string>
+    <string name="toolbar_opacity">Durchsichtigkeit der Symbolleiste</string>
+    <string name="default_toolbar_opacity_title">Durchsichtigkeit der Symbolleiste zurücksetzen</string>
+    <string name="toolbar_title_size">Größe des Titels</string>
+    <string name="default_toolbar_title_size">Größe des Titels zurücksetzen</string>
+    <string name="compact_mode_title">Kompakte Darstellung</string>
+    <string name="compact_mode_summary">Titel und Ort werden jeweils in einer Zeile dargestellt und bei zu langem Text wir das Ende abgeschnitten</string>
+    <string name="reverse_theme_title">Helles Thema</string>
+</resources>
