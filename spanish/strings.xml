@@ -1,6 +1,6 @@
 <resources>
     <string name="options">Opciones</string>
-    <string name="event_time">Desde %1$s</string>
+    <string name="event_time">Desde %1$s as %2$s</string>
     <string name="event_location">En %1$s</string>
     <string name="meeting_with_tim_cook">Almuerzo con Tim Cook</string>
     <string name="all_day">Todo el día</string>
