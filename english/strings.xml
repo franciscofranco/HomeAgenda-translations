@@ -30,4 +30,9 @@
     <string name="compact_mode_title">Compact mode</string>
     <string name="compact_mode_summary">Title and location set to use just one line each and ellipsize at the end</string>
     <string name="reverse_theme_title">Light theme</string>
+    <string name="even_more_compact_mode_title">Even more compact mode</string>
+    <string name="even_more_compact_mode_summary">Location is hidden, the date &amp; time share the same line</string>
+    <string name="hide_declined_events">Hide declined events</string>
+    <string name="loading">Loading event…</string>
+    <string name="highlight_running_events">Only highlight running events</string>
 </resources>
