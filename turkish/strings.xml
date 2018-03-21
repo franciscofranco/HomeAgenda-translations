@@ -30,4 +30,9 @@
     <string name="compact_mode_title">Kompakt mod</string>
     <string name="compact_mode_summary">Başlık ve konum her biri sadece bir satır kullanacak şekilde ayarlanmış</string>
     <string name="reverse_theme_title">Açık renk tema</string>
+	<string name="even_more_compact_mode_title">Daha da fazla kompakt mod</string>
+    <string name="even_more_compact_mode_summary">Konum gizlendi, tarih ve saat aynı satırı paylaşıyor</string>
+    <string name="hide_declined_events">Reddedilen etkinlikleri gizle</string>
+    <string name="loading">Etkinlik yükleniyor…</string>
+    <string name="highlight_running_events">Sadece çalışan etkinlikleri vurgula</string>
 </resources>
