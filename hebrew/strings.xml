@@ -30,4 +30,9 @@
     <string name="compact_mode_title">מצב קומפקטי</string>
     <string name="compact_mode_summary">הכותרת והמיקום נקבעו כל אחת מהן להשתמש רק בשורה אחת ולהשמיט תוכן בסוף</string>
     <string name="reverse_theme_title">ערכת נושא בהירה</string>
+	<string name="even_more_compact_mode_title">מצב קומפקטי אפילו יותר</string>
+    <string name="even_more_compact_mode_summary">המיקום מוסתר, התאריך והזמן חולקים את אותה השורה</string>
+    <string name="hide_declined_events">הסתרת אירועים שסורבו</string>
+    <string name="loading">טעינת אירוע.../string>
+    <string name="highlight_running_events">הדגשת אירועים שרצים בלבד</string>
 </resources>
