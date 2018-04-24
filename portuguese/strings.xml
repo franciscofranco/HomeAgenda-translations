@@ -30,4 +30,9 @@
     <string name="compact_mode_title">Modo compacto</string>
     <string name="compact_mode_summary">O título e localização do evento vão usar apenas uma linha</string>
     <string name="reverse_theme_title">Tema claro</string>
+    <string name="even_more_compact_mode_title">Tema ainda mais compacto</string>
+    <string name="even_more_compact_mode_summary">Localização escondida, a data e o time ficam na mesma linha</string>
+    <string name="hide_declined_events">Esconder eventos que não foram aceites</string>
+    <string name="loading">A carregar evento…</string>
+    <string name="highlight_running_events">Apenas destacar eventos a decorrer</string>
 </resources>
