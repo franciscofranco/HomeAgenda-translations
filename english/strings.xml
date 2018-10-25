@@ -54,4 +54,9 @@
     <string name="show_max_days_future_title">Max number of days shown</string>
     <string name="layout_appearance_title">Layout appearance</string>
     <string name="default_appearance">Default</string>
+    <string name="toolbar_rounded_events_title">Use rounded corners</string>
+    <string name="show_weather">Show weather temperature</string>
+    <string name="temperature_type_title">Temperature type</string>
+    <string name="hide_all_day_events_title">Hide all day events</string>
+    <string name="show_weather_summary">This weather information from Google Play Services isn\'t always 100% accurate by the hour. It only updates every other hour and/if your location changes. This uses the last known location to get the weather data so you need to have Location turned on</string>
 </resources>
