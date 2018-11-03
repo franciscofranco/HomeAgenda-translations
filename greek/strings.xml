@@ -10,8 +10,6 @@
     <string name="appearance">Εμφάνιση</string>
     <string name="preview">Προεπισκόπηση</string>
     <string name="highlight_today_events">Επισήμανση σημερινών συμβάντων</string>
-    <string name="window_opacity">Διαφάνεια παραθύρου</string>
-    <string name="default_window_opacity_title">Επαναφορά διαφάνειας παραθύρου</string>
     <string name="dinner_with_sundar_pichai">Google HQ ξενάγηση με Sundar Pichai</string>
     <string name="calendar_permission_rationale">Κατα κάποιο τρόπο την χρειαζόμαστε διαφορετικά τίποτα σε αυτή την εφαρμογή δεν θα λειτουργεί!</string>
     <string name="cancel">Άκυρο</string>
@@ -28,10 +26,7 @@
     <string name="toolbar_title_size">Μέγεθος τίτλου</string>
     <string name="default_toolbar_title_size">Επαναφορά μεγέθους τίτλου</string>
     <string name="compact_mode_title">Συμπαγής λειτουργία</string>
-    <string name="compact_mode_summary">Ο τίτλος και η τοποθεσία έχουν ρυθμιστεί να χρησιμοποιούν από μια γραμμή το καθένα με χρήση έλλειψης στο τέλος</string>
-    <string name="reverse_theme_title">Απαλό θέμα</string>
     <string name="even_more_compact_mode_title">Ακόμη πιο συμπαγής λειτουργία</string>
-    <string name="even_more_compact_mode_summary">Γίνεται απόκρυψη της τοποθεσίας, η ημέρα &amp; η ώρα μοιράζονται την ίδια γραμμή</string>
     <string name="hide_declined_events">Απόκρυψη συμβάντων που απορρίφθηκαν</string>
     <string name="loading">Φόρτωση συμβάντος…</string>
     <string name="highlight_running_events">Επισήμανση μόνο τρέχοντων συμβάντων</string>
@@ -41,8 +36,7 @@
     <string name="rounded_events_title">Χρήση στρογγυλεμένων άκρων για τα συμβάντα</string>
     <string name="event_color_opacity_title">Διαφάνεια χρώματος συμβάντος</string>
     <string name="highlight_event_color_opacity_title">Διαφάνεια χρώματος τονισμένων συμβάντων</string>
-    <string name="default_theme_events_color_title">Χρήση προεπιλεγμένων χρωμάτων θέματος</string>
-    <string name="no_calendar">Δεν έχετε συγχρωνήσει κανένα ημερολόγιο/string>
+    <string name="no_calendar">Δεν έχετε συγχρωνήσει κανένα ημερολόγιο</string>
     <string name="use_default_dark_theme_colors_title">Χρήση προεπιλεγμένων χρωμάτων σκούρου θέματος</string>
     <string name="use_default_light_theme_colors_title">Χρήση προεπιλεγμένων χρωμάτων φωτεινού θέματος</string>
     <string name="events_text_color_title">Χρώμα κειμένου συμβάντων</string>
