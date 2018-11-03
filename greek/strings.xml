@@ -59,4 +59,8 @@
     <string name="temperature_type_title">Τύπος θερμοκρασίας</string>
     <string name="hide_all_day_events_title">Απόκρυψη ολοήμερων συμβάντων</string>
     <string name="show_weather_summary">Οι πληροφορίες καιρού από τα Google Play Services δεν είναι πάντοτε 100% ακριβείς. Ενημερώνονται κάθε ώρα και/ή όταν αλλάξει η τοποθεσία. Γίνεται χρήση της τελευταίας γνωστής τοποθεσίας για να ανακτηθούν τα δεδομένα του καιρού, κατά συνέπεια χρειάζεται να έχετε την τοποθεσία ενεργή.</string>
+    <string name="weather_channel_notif">Ανανέωση καιρού</string>
+    <string name="weather_refresh_notif_title">Υπηρεσία ανανέωσης καιρού</string>
+    <string name="weather_refresh_notif_summary">Μπορείτε να πιέσετε παρατεταμένα εδώ και να απενεργοποιήσετε το κανάλι ειδοποιήσεων για να μην εμφανίζεται αυτή η ειδοποίηση</string>
+    <string name="show_max_number_of_events_title">Μέγιστος αριθμός συμβάντων προς εμφάνιση</string>
 </resources>
