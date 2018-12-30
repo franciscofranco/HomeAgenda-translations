@@ -17,7 +17,6 @@
     <string name="welcome_title">Γειά, ας ξεκινήσουμε!</string>
     <string name="start">Έναρξη</string>
     <string name="show_event_colors">Εμφάνιση χρώματος συμβάντος</string>
-    <string name="show_only_today_tomorrow">Εμφάνιση μόνο σήμερα &amp; αύριο</string>
     <string name="today">Σήμερα</string>
     <string name="show_toolbar">Εμφάνιση γραμμής εργαλειών</string>
     <string name="toolbar_appearance">Διαμόρφωση εμφάνισης γραμμής εργαλειών</string>

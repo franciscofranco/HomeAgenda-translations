@@ -10,8 +10,6 @@
     <string name="appearance">Apariencia</string>
     <string name="preview">Vista previa</string>
     <string name="highlight_today_events">Sobresaltar eventos de hoy</string>
-    <string name="window_opacity">Opacidad de ventana</string>
-    <string name="default_window_opacity_title">Reiniciar opacidad de ventana</string>
     <string name="dinner_with_sundar_pichai">Gira por el Google HQ con Sundar Pichai</string>
     <string name="calendar_permission_rationale">Es un tanto necesario, ¡de lo contrario nada en esta aplicación podrá funcionar!</string>
     <string name="cancel">Cancelar</string>
@@ -19,7 +17,6 @@
     <string name="welcome_title">Saludos, ¡vamos a empezar!</string>
     <string name="start">Comenzar</string>
     <string name="show_event_colors">Mostrar color de evento</string>
-    <string name="show_only_today_tomorrow">Mostrar solo hoy &amp; mañana</string>
     <string name="today">Hoy</string>
     <string name="show_toolbar">Mostrar la barra de herramientas</string>
     <string name="toolbar_appearance">Apariencia de la barra de herramientas</string>
@@ -28,6 +25,4 @@
     <string name="toolbar_title_size">Tamaño de título</string>
     <string name="default_toolbar_title_size">Reiniciar el tamaño de título</string>
     <string name="compact_mode_title">Modo compacto</string>
-    <string name="compact_mode_summary">Establecer título y localización en una sola línea cada uno y el tamaño de la elipse al final</string>
-    <string name="reverse_theme_title">Tema claro</string>
 </resources>

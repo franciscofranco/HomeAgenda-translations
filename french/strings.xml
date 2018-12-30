@@ -9,9 +9,7 @@
     <string name="calendars">Calendriers</string>
     <string name="appearance">Apparence</string>
     <string name="preview">Aperçu</string>
-    <string name="highlight_today_events">Mettre en évidence les événements d\'aujourd'hui</string>
-    <string name="window_opacity">Opacité de la fenêtre</string>
-    <string name="default_window_opacity_title">Réinitialiser l\'opacité</string>
+    <string name="highlight_today_events">Mettre en évidence les événements d\'aujourd\'hui</string>
     <string name="dinner_with_sundar_pichai">Visite du QG de Google avec Sundar Pichai</string>
     <string name="calendar_permission_rationale">Nous en avons un peu besoin sinon rien dans cette application ne fonctionnera!</string>
     <string name="cancel">Annuler</string>
@@ -19,7 +17,6 @@
     <string name="welcome_title">Salut, commençons l\'aventure!</string>
     <string name="start">Commencer</string>
     <string name="show_event_colors">Montrer la couleur de l\'événement</string>
-    <string name="show_only_today_tomorrow">Montrer uniquement aujourd\'hui et demain</string>
     <string name="today">Aujourd\'hui</string>
     <string name="show_toolbar">Montrer la barre d\'outils</string>
     <string name="toolbar_appearance">Apparence de la barre d\'outils</string>
@@ -28,6 +25,4 @@
     <string name="toolbar_title_size">Taille du titre</string>
     <string name="default_toolbar_title_size">Réinitialiser la taille du titre</string>
     <string name="compact_mode_title">Mode compact</string>
-    <string name="compact_mode_summary">Le titre et l\'endroit n\'utilisent qu\'une seule ligne chacun avec des points de suspension à la fin</string>
-    <string name="reverse_theme_title">Thème clair</string>
 </resources>
