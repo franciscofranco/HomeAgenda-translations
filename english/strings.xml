@@ -10,8 +10,6 @@
     <string name="appearance">Appearance</string>
     <string name="preview">Preview</string>
     <string name="highlight_today_events">Highlight today events</string>
-    <string name="window_opacity">Window opacity</string>
-    <string name="default_window_opacity_title">Reset window opacity</string>
     <string name="dinner_with_sundar_pichai">Google HQ tour with Sundar Pichai &amp; sneak peek into Google X secret facility</string>
     <string name="calendar_permission_rationale">We kinda need it otherwise nothing in this app will function!</string>
     <string name="cancel">Cancel</string>
@@ -19,7 +17,6 @@
     <string name="welcome_title">Hey there, let\'s get started!</string>
     <string name="start">Start</string>
     <string name="show_event_colors">Show event color label</string>
-    <string name="show_only_today_tomorrow">Show only today &amp; tomorrow</string>
     <string name="today">Today</string>
     <string name="show_toolbar">Show toolbar</string>
     <string name="toolbar_appearance">Toolbar appearance</string>
@@ -28,10 +25,7 @@
     <string name="toolbar_title_size">Title size</string>
     <string name="default_toolbar_title_size">Reset title size</string>
     <string name="compact_mode_title">Compact</string>
-    <string name="compact_mode_summary">Title and location set to use just one line each and ellipsize at the end</string>
-    <string name="reverse_theme_title">Light theme</string>
     <string name="even_more_compact_mode_title">Super compact</string>
-    <string name="even_more_compact_mode_summary">Location is hidden, the date &amp; time share the same line</string>
     <string name="hide_declined_events">Hide declined events</string>
     <string name="loading">Loading event…</string>
     <string name="highlight_running_events">Only highlight running events</string>
@@ -41,7 +35,6 @@
     <string name="rounded_events_title">Use rounded corners for events</string>
     <string name="event_color_opacity_title">Events color opacity</string>
     <string name="highlight_event_color_opacity_title">Highlighted events color opacity</string>
-    <string name="default_theme_events_color_title">Use the default theme colors</string>
     <string name="no_calendar">You don\'t have any calendar synced</string>
     <string name="use_default_dark_theme_colors_title">Use the default dark theme colors</string>
     <string name="use_default_light_theme_colors_title">Use the default light theme colors</string>
@@ -63,4 +56,18 @@
     <string name="weather_refresh_notif_title">Weather refresh service</string>
     <string name="weather_refresh_notif_summary">You can long press this and disable the notification channel to remove this notif</string>
     <string name="show_max_number_of_events_title">Max number of events shown</string>
+    <string name="show_calendar_icon_title">Show calendar icon</string>
+    <string name="show_calendar_add_event_title">Show add event icon</string>
+    <string name="show_widget_settings_title">Show settings icon</string>
+    <string name="event_date_size">Time text size</string>
+    <string name="event_description_size">Description text size</string>
+    <string name="event_location_size">Location text size</string>
+    <string name="event_time_size">Date text size</string>
+    <string name="reset_date_size">Reset time text size</string>
+    <string name="reset_description_size">Reset description text size</string>
+    <string name="reset_location_size">Reset location text size</string>
+    <string name="reset_time_size">Reset date text size</string>
+    <string name="show_today">Show today events</string>
+    <string name="show_tomorrow">Show tomorrow events</string>
+    <string name="show_everything_else">Show every event</string>
 </resources>
