@@ -2,15 +2,14 @@
     <string name="options">Seçenekler</string>
     <string name="event_time">%1$s - %2$s</string>
     <string name="event_location">%1$s konumunda</string>
-    <string name="meeting_with_tim_cook">Tim Cook ile öğle yemeği</string>
+    <string name="meeting_with_tim_cook">Etkinliğin 2 başlıklı önizlemesi</string>
     <string name="all_day">Tüm gün</string>
     <string name="time">Zaman</string>
     <string name="show_past_events">Geçmiş etkinlikleri göster</string>
     <string name="calendars">Takvimler</string>
     <string name="appearance">Görünüm</string>
-    <string name="preview">Ön izleme</string>
     <string name="highlight_today_events">Bugünkü etkinlikleri vurgula</string>
-    <string name="dinner_with_sundar_pichai">Sundar Pichai ile Google Genel Merkezi turu ve Google X gizli tesisine gizlice göz at</string>
+    <string name="dinner_with_sundar_pichai">Etkinlik başlığı önizlemesi</string>
     <string name="calendar_permission_rationale">Buna ihtiyacımız var, aksi takdirde bu uygulamadaki hiçbir şey işe yaramaz!</string>
     <string name="cancel">İptal</string>
     <string name="calendar_permission_rationale_title">Takvimi okuma izni eksik</string>
@@ -27,7 +26,6 @@
     <string name="compact_mode_title">Daralt</string>
     <string name="even_more_compact_mode_title">Daha fazla daralt</string>
     <string name="hide_declined_events">Reddedilen etkinlikleri gizle</string>
-    <string name="loading">Etkinlik yükleniyor…</string>
     <string name="highlight_running_events">Yalnızca çalışan etkinlikleri vurgula</string>
     <string name="events_appearance">Etkinlikler görünümü</string>
     <string name="event_color_title">Etkinlikler arka planı rengi</string>
@@ -45,7 +43,7 @@
     <string name="invert_time_label_title">Zaman ve etiket konumunu değiştir</string>
     <string name="label_color_as_background_title">Renk etiketini arka plan olarak kullan</string>
     <string name="show_max_days_future_title">Gösterilen en fazla gün sayısı</string>
-    <string name="layout_appearance_title">Düzen görünümü</string>
+    <string name="layout_appearance_title">Etkinlikler düzeni görünümü</string>
     <string name="default_appearance">Varsayılan</string>
 	<string name="toolbar_rounded_events_title">Yuvarlak köşeler kullan</string>
     <string name="show_weather">Hava sıcaklığını göster</string>
@@ -70,4 +68,15 @@
     <string name="show_today">Bugün ki etkinlikleri göster</string>
     <string name="show_tomorrow">Yarın ki etkinlikleri göster</string>
     <string name="show_everything_else">Her etkinliği göster</string>
+	<string name="grouped_events">Gruplandırılmış etkinlikler</string>
+    <string name="group_events">Grup etkinlikleri</string>
+    <string name="group_events_summary">Günlere göre gruplandırılmış etkinlikler</string>
+    <string name="rounded_events_headers_title">Yuvarlak arka plan köşeleri kullan</string>
+    <string name="header_background_color">Başlıklar arka plan rengi</string>
+    <string name="header_opacity">Başlıklar arka plan opaklığı</string>
+    <string name="header_title_text_color">Başlıklar metin rengi</string>
+    <string name="header_title_text_size">Başlıklar metin boyutu</string>
+    <string name="preview_location" translatable="false">Location Preview</string>
+    <string name="tomorrow">Yarın</string>
+    <string name="reset_text_size">Başlık metni boyutunu sıfırla</string>
 </resources>
