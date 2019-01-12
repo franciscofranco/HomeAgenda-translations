@@ -70,4 +70,15 @@
     <string name="show_today">Zeige heutige Ereignisse</string>
     <string name="show_tomorrow">Zeige morgige Ereignisse</string>
     <string name="show_everything_else">Zeige jedes Ereignis</string>
+    <string name="grouped_events">Gruppierte Ereignisse</string>
+    <string name="group_events">Gruppen Ereignisse</string>
+    <string name="group_events_summary">Ereignisse vom selben Tag gruppieren</string>
+    <string name="rounded_events_headers_title">Nutze abgerundete Hintergrund Ecken</string>
+    <string name="header_background_color">Hintergrund Farbe der Kopfzeile</string>
+    <string name="header_opacity">Undurchsichtigkeit des Kopfzeilen Hintergundes</string>
+    <string name="header_title_text_color">Textfarbe der Kopfzeile</string>
+    <string name="header_title_text_size">Text Größe der Kopfzeile</string>
+    <string name="preview_location">Standort Vorschau</string>
+    <string name="tomorrow">Morgen</string>
+    <string name="reset_text_size">Text Größe des Titels zurücksetzen</string>
 </resources>
