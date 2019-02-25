@@ -12,7 +12,7 @@
     <string name="highlight_today_events">Zvýraznit dnešní události</string>
     <string name="window_opacity">Průhlednost okna</string>
     <string name="default_window_opacity_title">Resetovat průhlednost okna</string>
-    <string name="dinner_with_sundar_pichai">Prohlídka centrály Googlu se Sundarem Pichaiem</string>
+    <string name="dinner_with_sundar_pichai">Prohlídka centrály Google se Sundarem Pichaiem</string>
     <string name="calendar_permission_rationale">Potřebujeme toto oprávnění, jinak v této aplikaci nebude nic fungovat!</string>
     <string name="cancel">Zrušit</string>
     <string name="calendar_permission_rationale_title">Chybí oprávnění ke čtení kalendáře</string>
@@ -49,18 +49,18 @@
     <string name="highlights_text_color_title">Barva textu u zvýrazněných událostí</string>
     <string name="toolbar_color_title">Barva nástrjové lišty</string>
     <string name="toolbar_text_icons_color_title">Barva ikon &amp; textu nástrojové lišty</string>
-    <string name="invert_time_label_title">Otočit pozici času a štítku</string>
+    <string name="invert_time_label_title">Obrátit pozici času a štítku</string>
     <string name="label_color_as_background_title">Použít barvu štítku jako barvu pozadí</string>
-    <string name="show_max_days_future_title">Maximální počet ukázaných dnů</string>
+    <string name="show_max_days_future_title">Maximální počet zobrazených dnů</string>
     <string name="layout_appearance_title">Vzhled rozvržení</string>
     <string name="default_appearance">Výchozí</string>
     <string name="toolbar_rounded_events_title">Použít zakulacené okraje</string>
-    <string name="show_weather">Ukázat teplotu</string>
+    <string name="show_weather">Zobrazit teplotu</string>
     <string name="temperature_type_title">Typ teploty</string>
     <string name="hide_all_day_events_title">Skrýt celodenní události</string>
     <string name="show_weather_summary">Tato informace o počasí ze služeb Google Play není vždy na 100% přesná celou hodinu. Aktualizuje se pouze každou hodinu nebo pokud změníte svou polohu. Tato funkce využívá vaši poslední známou polohu, proto je dobré mít zapnuté zjišťování polohy.</string>
     <string name="weather_channel_notif">Obnovení informací o počasí</string>
     <string name="weather_refresh_notif_title">Služba obnovení informací o počasí</string>
     <string name="weather_refresh_notif_summary">Pro odstranění tohoto upozornění dlouze podržte pro vypnutí upozornění</string>
-    <string name="show_max_number_of_events_title">Maximální počet ukázaných událostí</string>
+    <string name="show_max_number_of_events_title">Maximální počet zobrazených událostí</string>
 </resources>
