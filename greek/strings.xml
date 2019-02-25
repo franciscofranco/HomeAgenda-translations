@@ -11,13 +11,12 @@
     <string name="preview">Προεπισκόπηση</string>
     <string name="highlight_today_events">Επισήμανση σημερινών συμβάντων</string>
     <string name="dinner_with_sundar_pichai">Google HQ ξενάγηση με Sundar Pichai</string>
-    <string name="calendar_permission_rationale">Κατα κάποιο τρόπο την χρειαζόμαστε διαφορετικά τίποτα σε αυτή την εφαρμογή δεν θα λειτουργεί!</string>
+    <string name="calendar_permission_rationale">Κατά κάποιο τρόπο την χρειαζόμαστε διαφορετικά τίποτα σε αυτή την εφαρμογή δεν θα λειτουργεί!</string>
     <string name="cancel">Άκυρο</string>
     <string name="calendar_permission_rationale_title">Η άδεια για διάβασμα του ημερολογίου λείπει</string>
     <string name="welcome_title">Γειά, ας ξεκινήσουμε!</string>
     <string name="start">Έναρξη</string>
     <string name="show_event_colors">Εμφάνιση χρώματος συμβάντος</string>
-    <string name="show_only_today_tomorrow">Εμφάνιση μόνο σήμερα &amp; αύριο</string>
     <string name="today">Σήμερα</string>
     <string name="show_toolbar">Εμφάνιση γραμμής εργαλειών</string>
     <string name="toolbar_appearance">Διαμόρφωση εμφάνισης γραμμής εργαλειών</string>
@@ -36,7 +35,7 @@
     <string name="rounded_events_title">Χρήση στρογγυλεμένων άκρων για τα συμβάντα</string>
     <string name="event_color_opacity_title">Διαφάνεια χρώματος συμβάντος</string>
     <string name="highlight_event_color_opacity_title">Διαφάνεια χρώματος τονισμένων συμβάντων</string>
-    <string name="no_calendar">Δεν έχετε συγχρωνήσει κανένα ημερολόγιο</string>
+    <string name="no_calendar">Δεν έχετε συγχρονίσει κανένα ημερολόγιο</string>
     <string name="use_default_dark_theme_colors_title">Χρήση προεπιλεγμένων χρωμάτων σκούρου θέματος</string>
     <string name="use_default_light_theme_colors_title">Χρήση προεπιλεγμένων χρωμάτων φωτεινού θέματος</string>
     <string name="events_text_color_title">Χρώμα κειμένου συμβάντων</string>

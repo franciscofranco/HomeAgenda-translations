@@ -10,8 +10,6 @@
     <string name="appearance">Aparência</string>
     <string name="preview">Pré-visualização</string>
     <string name="highlight_today_events">Destacar eventos de hoje</string>
-    <string name="window_opacity">Transparência do widget</string>
-    <string name="default_window_opacity_title">Restabelecer transparência</string>
     <string name="dinner_with_sundar_pichai">Visita aos HQ da Google com o Sundar Pichai</string>
     <string name="calendar_permission_rationale">Sem esta permissão a app não vai funcionar!</string>
     <string name="cancel">Cancelar</string>
@@ -19,7 +17,6 @@
     <string name="welcome_title">Olá, vamos começar!</string>
     <string name="start">Iniciar</string>
     <string name="show_event_colors">Mostrar a cor dos eventos</string>
-    <string name="show_only_today_tomorrow">Mostrar apenas hoje &amp; amanhã</string>
     <string name="today">Hoje</string>
     <string name="show_toolbar">Mostrar a barra superior</string>
     <string name="toolbar_appearance">Aparência da barra</string>
@@ -28,10 +25,7 @@
     <string name="toolbar_title_size">Tamanho do título</string>
     <string name="default_toolbar_title_size">Restabelecer tamanho do título</string>
     <string name="compact_mode_title">Modo compacto</string>
-    <string name="compact_mode_summary">O título e localização do evento vão usar apenas uma linha</string>
-    <string name="reverse_theme_title">Tema claro</string>
     <string name="even_more_compact_mode_title">Tema ainda mais compacto</string>
-    <string name="even_more_compact_mode_summary">Localização escondida, a data e o time ficam na mesma linha</string>
     <string name="hide_declined_events">Esconder eventos que não foram aceites</string>
     <string name="loading">A carregar evento…</string>
     <string name="highlight_running_events">Apenas destacar eventos a decorrer</string>

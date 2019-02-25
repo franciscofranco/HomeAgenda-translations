@@ -10,8 +10,6 @@
     <string name="appearance">Vzhled</string>
     <string name="preview">Náhled</string>
     <string name="highlight_today_events">Zvýraznit dnešní události</string>
-    <string name="window_opacity">Průhlednost okna</string>
-    <string name="default_window_opacity_title">Resetovat průhlednost okna</string>
     <string name="dinner_with_sundar_pichai">Prohlídka centrály Google se Sundarem Pichaiem</string>
     <string name="calendar_permission_rationale">Potřebujeme toto oprávnění, jinak v této aplikaci nebude nic fungovat!</string>
     <string name="cancel">Zrušit</string>
@@ -19,7 +17,6 @@
     <string name="welcome_title">Vítejte, pojďme začít!</string>
     <string name="start">Začít</string>
     <string name="show_event_colors">Zobrazit barvu události</string>
-    <string name="show_only_today_tomorrow">Zobrazit pouze dnešek a zítřek</string>
     <string name="today">Dnes</string>
     <string name="show_toolbar">Zobrazit panel nástrojů</string>
     <string name="toolbar_appearance">Vzhled panelu nástrojů</string>
@@ -28,10 +25,7 @@
     <string name="toolbar_title_size">Velikost záhlaví</string>
     <string name="default_toolbar_title_size">Resetovat velikost záhlaví</string>
     <string name="compact_mode_title">Kompaktní režim</string>
-    <string name="compact_mode_summary">Název a místo jsou nastaveny tak, aby zabíraly vždy pouze jeden řádek</string>
-    <string name="reverse_theme_title">Světlý motiv</string>
     <string name="even_more_compact_mode_title">Ještě kompaktnější režim</string>
-    <string name="even_more_compact_mode_summary">Místo je skryto, datum a čas sdílejí stejný řádek</string>
     <string name="hide_declined_events">Skrýt odmítnuté události</string>
     <string name="loading">Načítání události…</string>
     <string name="highlight_running_events">Zvýraznit pouze probíhající události</string>
@@ -41,7 +35,6 @@
     <string name="rounded_events_title">Použít zakulacené okraje pro události</string>
     <string name="event_color_opacity_title">Neprůhlednost barev pro události</string>
     <string name="highlight_event_color_opacity_title">Neprůhlednost barev pro zvýrazněné události</string>
-    <string name="default_theme_events_color_title">Použít výchozí barvy motivu</string>
     <string name="no_calendar">Ještě jste nesynchronizovali žádné kalendáře</string>
     <string name="use_default_dark_theme_colors_title">Použít výchozí barvy tmavého motivu</string>
     <string name="use_default_light_theme_colors_title">Použít výchozí barvy světlého motivu</string>

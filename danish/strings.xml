@@ -10,8 +10,6 @@
     <string name="appearance">Udseende</string>
     <string name="preview">Forhåndsvisning</string>
     <string name="highlight_today_events">Fremhæv dagens aftaler</string>
-    <string name="window_opacity">Vindue gennemsigtighed</string>
-    <string name="default_window_opacity_title">Nulstil vindue gennemsigtighed</string>
     <string name="dinner_with_sundar_pichai">Google HQ tur med Sundar Pichai &amp; et kig ind i Google X\'s hemmelige anlæg</string>
     <string name="calendar_permission_rationale">Vi har brug for det, ellers vil intet i den her app virke!</string>
     <string name="cancel">Annullere</string>
@@ -19,7 +17,6 @@
     <string name="welcome_title">Hej, lad os komme i gang!</string>
     <string name="start">Start</string>
     <string name="show_event_colors">Vis aftale farve mærkat</string>
-    <string name="show_only_today_tomorrow">Vis kun i dag &amp; i morgen</string>
     <string name="today">I dag</string>
     <string name="show_toolbar">Vis værktøjslinje</string>
     <string name="toolbar_appearance">Værktøjslinje udseende</string>
@@ -28,12 +25,9 @@
     <string name="toolbar_title_size">Overskrift størrelse</string>
     <string name="default_toolbar_title_size">Nulstil overskrift størrelse</string>
     <string name="compact_mode_title">Kompakt</string>
-    <string name="compact_mode_summary">Emne og sted bliver sat til at bruge en linje hver og forkortet i slutningen</string>
-    <string name="reverse_theme_title">Lyst tema</string>
     <string name="even_more_compact_mode_title">Super kompakt</string>
-    <string name="even_more_compact_mode_summary">Sted er skjult, dato &amp; tid deler samme linje</string>
     <string name="hide_declined_events">Skjul afviste aftaler</string>
-    <string name="loading">Indlæser aftale...</string>
+    <string name="loading">Indlæser aftale…</string>
     <string name="highlight_running_events">Fremhæv kun igangværende aftaler</string>
     <string name="events_appearance">Aftale udseende</string>
     <string name="event_color_title">Baggrundsfarve for aftaler</string>
@@ -41,7 +35,6 @@
     <string name="rounded_events_title">Brug runde hjørner for aftaler</string>
     <string name="event_color_opacity_title">Gennemsigtighed for aftale farve</string>
     <string name="highlight_event_color_opacity_title">Gennemsigtighed for fremhævet aftale farve</string>
-    <string name="default_theme_events_color_title">Brug standard tema farver</string>
     <string name="no_calendar">Du har ikke nogen kalendere synkroniseret</string>
     <string name="use_default_dark_theme_colors_title">Brug farver fra standard mørkt tema</string>
     <string name="use_default_light_theme_colors_title">Brug farver fra standard lyst tema</string>
