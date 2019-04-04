@@ -1,7 +1,7 @@
 <resources>
     <string name="options">Настройки</string>
     <string name="event_time">С %1$s до %2$s</string>
-    <string name="event_location">в %1$s</string>
+    <string name="event_location">%1$s</string>
     <string name="meeting_with_tim_cook">Пример названия события 2</string>
     <string name="all_day">Весь день</string>
     <string name="time">Время</string>
