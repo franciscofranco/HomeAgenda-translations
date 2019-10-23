@@ -56,4 +56,18 @@
     <string name="weather_refresh_notif_title">Υπηρεσία ανανέωσης καιρού</string>
     <string name="weather_refresh_notif_summary">Μπορείτε να πιέσετε παρατεταμένα εδώ και να απενεργοποιήσετε το κανάλι ειδοποιήσεων για να μην εμφανίζεται αυτή η ειδοποίηση</string>
     <string name="show_max_number_of_events_title">Μέγιστος αριθμός συμβάντων προς εμφάνιση</string>
+    <string name="show_calendar_icon_title">Εμφάνιση εικονιδίου ημερολογίου</string>
+    <string name="show_calendar_add_event_title">Εμφάνιση εικονιδίου προσθήκης δραστηριότητας</string>
+    <string name="show_widget_settings_title">Εμφάνιση εικονιδίου ρυθμίσεων</string>
+    <string name="event_date_size">Μέγεθος κειμένου ώσρας</string>
+    <string name="event_description_size">Μέγεθος κειμένου περιγραφής</string>
+    <string name="event_location_size">Μέγεθος κειμένου τοποθεσίας</string>
+    <string name="event_time_size">Μέγεθος κειμένου ημέρας</string>
+    <string name="reset_date_size">Επαναφορά μεγέθους κειμένου ώρας</string>
+    <string name="reset_description_size">Επαναφορά μεγέθους κειμένου περιγραφής</string>
+    <string name="reset_location_size">Επαναφορά μεγέθους κειμένου τοποθεσίας</string>
+    <string name="reset_time_size">Επαναφορά μεγέθους κειμένου ημέρας</string>
+    <string name="show_today">Εμφάνιση σημερινών δραστηριοτήτων</string>
+    <string name="show_tomorrow">Εμφάνιση αυριανών δραστηριοτήτων</string>
+    <string name="show_everything_else">Εμφάνιση όλων των δραστηριοτήτων</string>
 </resources>
