@@ -8,7 +8,6 @@
     <string name="show_past_events">הצגת אירועי עבר</string>
     <string name="calendars">לוחות שנה</string>
     <string name="appearance">מראה</string>
-    <string name="preview">תצוגה מקדימה</string>
     <string name="highlight_today_events">הדגשת אירועי היום</string>
     <string name="dinner_with_sundar_pichai">סיור במשרדי Google עם סונדאר פיצ\'איי</string>
     <string name="calendar_permission_rationale">הרשאה זו נדרשת אחרת שום דבר לא יעבוד באפליקציה זו!</string>
@@ -27,6 +26,5 @@
     <string name="compact_mode_title">מצב קומפקטי</string>
     <string name="even_more_compact_mode_title">מצב קומפקטי אפילו יותר</string>
     <string name="hide_declined_events">הסתרת אירועים שסורבו</string>
-    <string name="loading">טעינת אירוע…</string>
     <string name="highlight_running_events">הדגשת אירועים שרצים בלבד</string>
 </resources>

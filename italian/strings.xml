@@ -49,7 +49,7 @@
     <string name="show_weather">Mostra la temperatura del meteo</string>
     <string name="temperature_type_title">Tipo Temperatura</string>
     <string name="hide_all_day_events_title">Nascondi gli eventi di tutto il giorno</string>
-    <string name="show_weather_summary">Le informazioni meteo di Google Play Services non sono sempre accurate al 100%. Si sincronizza solo una volta all\'ora e se la posizione cambia. Questo servizio utilizza l'ultima posizione conosciuta per ottenere i dati meteo, quindi è necessario avere la cronologia posizione attivata</string>
+    <string name="show_weather_summary">Le informazioni meteo di Google Play Services non sono sempre accurate al 100%. Si sincronizza solo una volta all\'ora e se la posizione cambia. Questo servizio utilizza l\'ultima posizione conosciuta per ottenere i dati meteo, quindi è necessario avere la cronologia posizione attivata</string>
     <string name="weather_channel_notif">Aggiornamento meteo</string>
     <string name="weather_refresh_notif_title">Servizio aggiornamento meteo</string>
     <string name="weather_refresh_notif_summary">È possibile premere a lungo questo e disabilitare il canale di notifica per rimuovere questo avviso</string>
@@ -68,7 +68,6 @@
     <string name="show_today">Mostra eventi di oggi</string>
     <string name="show_tomorrow">Mostra eventi di domani</string>
     <string name="show_everything_else">Mostra tutti gli eventi</string>
-    <string name="grouped_events">Eventi raggruppati</string>
     <string name="group_events">Gruppo eventi</string>
     <string name="group_events_summary">Eventi raggruppati per giorno</string>
     <string name="rounded_events_headers_title">Usa bordi arrotondati per lo sfondo</string>

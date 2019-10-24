@@ -8,7 +8,6 @@
     <string name="show_past_events">Εμφάνιση περασμένων συμβάντων</string>
     <string name="calendars">Ημερολόγια</string>
     <string name="appearance">Εμφάνιση</string>
-    <string name="preview">Προεπισκόπηση</string>
     <string name="highlight_today_events">Επισήμανση σημερινών συμβάντων</string>
     <string name="dinner_with_sundar_pichai">Δείπνο με τον Sundar Pichai</string>
     <string name="calendar_permission_rationale">Κατά κάποιο τρόπο την χρειαζόμαστε διαφορετικά τίποτα σε αυτή την εφαρμογή δεν θα λειτουργεί!</string>
@@ -27,7 +26,6 @@
     <string name="compact_mode_title">Συμπαγής λειτουργία</string>
     <string name="even_more_compact_mode_title">Ακόμη πιο συμπαγής λειτουργία</string>
     <string name="hide_declined_events">Απόκρυψη συμβάντων που απορρίφθηκαν</string>
-    <string name="loading">Φόρτωση συμβάντος…</string>
     <string name="highlight_running_events">Επισήμανση μόνο τρέχοντων συμβάντων</string>
     <string name="events_appearance">Εμφάνιση Συμβάντων</string>
     <string name="event_color_title">Χρώμα παρασκηνίου συμβάντων</string>

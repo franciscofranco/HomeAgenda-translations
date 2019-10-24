@@ -8,7 +8,6 @@
     <string name="show_past_events">Elmúlt események mutatása</string>
     <string name="calendars">Naptárok</string>
     <string name="appearance">Megjelenés</string>
-    <string name="preview">Előnézet</string>
     <string name="highlight_today_events">Mai események kiemelése</string>
     <string name="dinner_with_sundar_pichai">Google központ bejárása Sundar Pichai-al</string>
     <string name="calendar_permission_rationale">Erre szükség van, máskülönben semmi nem fog működni az alkalmazásban!</string>

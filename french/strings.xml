@@ -8,7 +8,6 @@
     <string name="show_past_events">Afficher les événements passés</string>
     <string name="calendars">Calendriers</string>
     <string name="appearance">Apparence</string>
-    <string name="preview">Aperçu</string>
     <string name="highlight_today_events">Mettre en évidence les événements d\'aujourd\'hui</string>
     <string name="dinner_with_sundar_pichai">Visite du QG de Google avec Sundar Pichai</string>
     <string name="calendar_permission_rationale">Nous en avons un peu besoin sinon rien dans cette application ne fonctionnera!</string>

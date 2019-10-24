@@ -8,7 +8,6 @@
     <string name="show_past_events">Mostrar eventos que já aconteceram</string>
     <string name="calendars">Calendários</string>
     <string name="appearance">Aparência</string>
-    <string name="preview">Pré-visualização</string>
     <string name="highlight_today_events">Destacar eventos de hoje</string>
     <string name="dinner_with_sundar_pichai">Visita aos HQ da Google com o Sundar Pichai</string>
     <string name="calendar_permission_rationale">Sem esta permissão o app não irá funcionar!</string>
@@ -27,6 +26,5 @@
     <string name="compact_mode_title">Modo compacto</string>
     <string name="even_more_compact_mode_title">Tema ainda mais compacto</string>
     <string name="hide_declined_events">Esconder eventos que não foram aceites</string>
-    <string name="loading">A carregar evento…</string>
     <string name="highlight_running_events">Apenas destacar eventos a decorrer</string>
 </resources>

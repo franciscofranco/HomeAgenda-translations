@@ -8,7 +8,6 @@
     <string name="show_past_events">Zobrazit uplynulé události</string>
     <string name="calendars">Kalendáře</string>
     <string name="appearance">Vzhled</string>
-    <string name="preview">Náhled</string>
     <string name="highlight_today_events">Zvýraznit dnešní události</string>
     <string name="dinner_with_sundar_pichai">Prohlídka centrály Googlu se Sundarem Pichaiem</string>
     <string name="calendar_permission_rationale">Potřebujeme toto oprávnění, jinak v této aplikaci nebude nic fungovat!</string>
@@ -27,7 +26,6 @@
     <string name="compact_mode_title">Kompaktní režim</string>
     <string name="even_more_compact_mode_title">Ještě kompaktnější režim</string>
     <string name="hide_declined_events">Skrýt odmítnuté události</string>
-    <string name="loading">Načítání události…</string>
     <string name="highlight_running_events">Zvýraznit pouze probíhající události</string>
     <string name="events_appearance">Vzhled událostí</string>
     <string name="event_color_title">Barva pozadí u událostí</string>

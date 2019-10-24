@@ -45,7 +45,7 @@
     <string name="show_max_days_future_title">Gösterilen en fazla gün sayısı</string>
     <string name="layout_appearance_title">Etkinlikler düzeni görünümü</string>
     <string name="default_appearance">Varsayılan</string>
-	<string name="toolbar_rounded_events_title">Yuvarlak köşeler kullan</string>
+    <string name="toolbar_rounded_events_title">Yuvarlak köşeler kullan</string>
     <string name="show_weather">Hava sıcaklığını göster</string>
     <string name="temperature_type_title">Sıcaklık tipi</string>
     <string name="hide_all_day_events_title">Tüm gün etkinliklerini gizle</string>
@@ -68,7 +68,6 @@
     <string name="show_today">Bugün ki etkinlikleri göster</string>
     <string name="show_tomorrow">Yarın ki etkinlikleri göster</string>
     <string name="show_everything_else">Her etkinliği göster</string>
-	<string name="grouped_events">Gruplandırılmış etkinlikler</string>
     <string name="group_events">Grup etkinlikleri</string>
     <string name="group_events_summary">Günlere göre gruplandırılmış etkinlikler</string>
     <string name="rounded_events_headers_title">Yuvarlak arka plan köşeleri kullan</string>
