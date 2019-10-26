@@ -70,7 +70,7 @@
     <string name="show_everything_else">Perlihatkan setiap acara</string>
     <string name="group_events">Grup acara</string>
     <string name="group_events_summary">Grup acara berdasarkan hari</string>
-    <string name="rounded_events_headers_title">Gunakan latar belakang melengkung</string>
+    <string name="rounded_events_headers_title">Gunakan latar belakang membulat</string>
     <string name="header_background_color">Warna lataer belakang bagian atas</string>
     <string name="header_opacity">Opasitas latar belakang bagian atas</string>
     <string name="header_title_text_color">Warna teks bagian atas</string>
@@ -83,14 +83,14 @@
     <string name="circle_title">Lingkaran</string>
     <string name="rectangle_title">Persegi panjang vertikal</string>
     <string name="list_background_color_title">Warna latar daftar acara</string>
-    <string name="list_background_rounded_corners_title">Gunakan latar belakang melengkung</string>
+    <string name="list_background_rounded_corners_title">Gunakan latar belakang membulat</string>
     <string name="list_background_padding_title">Kedalaman daftar acara</string>
     <string name="default_list_background_appearance_title">Atur ulang daftar tampilan acara</string>
     <string name="twitter_title">Twitter</string>
     <string name="twitter_summary">Tweet saya pengaturan layar beranda anda dengan tata letak widget anda!</string>
     <string name="my_apps">Aplikasi saya</string>
     <string name="rate_agenda">Berikan rating widget Home Agenda!</string>
-    <string name="rounded_rectangle_title">Gunakan tepian melengkung</string>
+    <string name="rounded_rectangle_title">Gunakan tepian membulat</string>
     <string name="rounded_rectangle_summary">Untuk bentuk label segi empat</string>
     <string name="help_with_translations">Bantu saya dengan menterjemahkan</string>
 </resources>
