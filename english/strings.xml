@@ -93,4 +93,11 @@
     <string name="rounded_rectangle_title">Use rounded edges</string>
     <string name="rounded_rectangle_summary">For the rectangle label shape</string>
     <string name="help_with_translations">Help me with translations</string>
+    <string name="import_theme_title">Import a theme</string>
+    <string name="import_theme_summary">Load a theme to change your widget appearance. This will overwrite all your visual settings. Make sure you back yours first before trying a different theme</string>
+    <string name="export_theme_title">Save your widget theme</string>
+    <string name="export_theme_summary">Export your settings and share it with your friends… or merely save it for later 😉</string>
+    <string name="cant_open_document">Can\'t open this probably due to your device manufacturer</string>
+    <string name="choose_your_theme_name">Choose your theme name</string>
+    <string name="event_spacing_title">Spacing between events</string>
 </resources>
