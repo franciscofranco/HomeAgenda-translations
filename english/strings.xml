@@ -100,4 +100,5 @@
     <string name="cant_open_document">Can\'t open this probably due to your device manufacturer</string>
     <string name="choose_your_theme_name">Choose your theme name</string>
     <string name="event_spacing_title">Spacing between events</string>
+    <string name="header_spacing_title">Spacing between the header &amp; events group</string>
 </resources>
