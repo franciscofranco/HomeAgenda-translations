@@ -8,7 +8,6 @@
     <string name="show_past_events">Vergangene Ereignisse anzeigen</string>
     <string name="calendars">Kalender</string>
     <string name="appearance">Darstellung</string>
-    <string name="preview">Vorschau</string>
     <string name="highlight_today_events">Heutige Ereignisse hervorheben</string>
     <string name="dinner_with_sundar_pichai">Google Hauptsitz Besichtigung mit Sundar Pichai</string>
     <string name="calendar_permission_rationale">Wir brauchen diese Berechtigung, sonst wird nichts in dieser App funktionieren!</string>
@@ -27,7 +26,6 @@
     <string name="compact_mode_title">Kompakte Darstellung</string>
     <string name="even_more_compact_mode_title">Sehr kompakte Darstellung</string>
     <string name="hide_declined_events">Verstecke abgelehnte Ereignisse</string>
-    <string name="loading">Lade Ereignis…</string>
     <string name="highlight_running_events">Nur laufende Ereignisse hervorheben</string>
     <string name="events_appearance">Ereignis Aussehen</string>
     <string name="event_color_title">Hintergrundfarbe für Ereignisse</string>
@@ -70,7 +68,6 @@
     <string name="show_today">Zeige heutige Ereignisse</string>
     <string name="show_tomorrow">Zeige morgige Ereignisse</string>
     <string name="show_everything_else">Zeige jedes Ereignis</string>
-    <string name="grouped_events">Gruppierte Ereignisse</string>
     <string name="group_events">Gruppen Ereignisse</string>
     <string name="group_events_summary">Ereignisse vom selben Tag gruppieren</string>
     <string name="rounded_events_headers_title">Nutze abgerundete Hintergrund Ecken</string>

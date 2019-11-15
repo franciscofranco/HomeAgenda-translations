@@ -8,9 +8,8 @@
     <string name="show_past_events">Εμφάνιση περασμένων συμβάντων</string>
     <string name="calendars">Ημερολόγια</string>
     <string name="appearance">Εμφάνιση</string>
-    <string name="preview">Προεπισκόπηση</string>
     <string name="highlight_today_events">Επισήμανση σημερινών συμβάντων</string>
-    <string name="dinner_with_sundar_pichai">Google HQ ξενάγηση με Sundar Pichai</string>
+    <string name="dinner_with_sundar_pichai">Δείπνο με τον Sundar Pichai</string>
     <string name="calendar_permission_rationale">Κατά κάποιο τρόπο την χρειαζόμαστε διαφορετικά τίποτα σε αυτή την εφαρμογή δεν θα λειτουργεί!</string>
     <string name="cancel">Άκυρο</string>
     <string name="calendar_permission_rationale_title">Η άδεια για διάβασμα του ημερολογίου λείπει</string>
@@ -27,7 +26,6 @@
     <string name="compact_mode_title">Συμπαγής λειτουργία</string>
     <string name="even_more_compact_mode_title">Ακόμη πιο συμπαγής λειτουργία</string>
     <string name="hide_declined_events">Απόκρυψη συμβάντων που απορρίφθηκαν</string>
-    <string name="loading">Φόρτωση συμβάντος…</string>
     <string name="highlight_running_events">Επισήμανση μόνο τρέχοντων συμβάντων</string>
     <string name="events_appearance">Εμφάνιση Συμβάντων</string>
     <string name="event_color_title">Χρώμα παρασκηνίου συμβάντων</string>
@@ -56,4 +54,18 @@
     <string name="weather_refresh_notif_title">Υπηρεσία ανανέωσης καιρού</string>
     <string name="weather_refresh_notif_summary">Μπορείτε να πιέσετε παρατεταμένα εδώ και να απενεργοποιήσετε το κανάλι ειδοποιήσεων για να μην εμφανίζεται αυτή η ειδοποίηση</string>
     <string name="show_max_number_of_events_title">Μέγιστος αριθμός συμβάντων προς εμφάνιση</string>
+    <string name="show_calendar_icon_title">Εμφάνιση εικονιδίου ημερολογίου</string>
+    <string name="show_calendar_add_event_title">Εμφάνιση εικονιδίου προσθήκης δραστηριότητας</string>
+    <string name="show_widget_settings_title">Εμφάνιση εικονιδίου ρυθμίσεων</string>
+    <string name="event_date_size">Μέγεθος κειμένου ώσρας</string>
+    <string name="event_description_size">Μέγεθος κειμένου περιγραφής</string>
+    <string name="event_location_size">Μέγεθος κειμένου τοποθεσίας</string>
+    <string name="event_time_size">Μέγεθος κειμένου ημέρας</string>
+    <string name="reset_date_size">Επαναφορά μεγέθους κειμένου ώρας</string>
+    <string name="reset_description_size">Επαναφορά μεγέθους κειμένου περιγραφής</string>
+    <string name="reset_location_size">Επαναφορά μεγέθους κειμένου τοποθεσίας</string>
+    <string name="reset_time_size">Επαναφορά μεγέθους κειμένου ημέρας</string>
+    <string name="show_today">Εμφάνιση σημερινών δραστηριοτήτων</string>
+    <string name="show_tomorrow">Εμφάνιση αυριανών δραστηριοτήτων</string>
+    <string name="show_everything_else">Εμφάνιση όλων των δραστηριοτήτων</string>
 </resources>

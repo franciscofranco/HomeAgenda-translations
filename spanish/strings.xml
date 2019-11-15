@@ -8,7 +8,6 @@
     <string name="show_past_events">Mostrar eventos pasados</string>
     <string name="calendars">Calendarios</string>
     <string name="appearance">Apariencia</string>
-    <string name="preview">Vista previa</string>
     <string name="highlight_today_events">Resaltar eventos de hoy</string>
     <string name="dinner_with_sundar_pichai">Gira por Google HQ con Sundar Pichai y vistazo a las instalaciones secretas de Google X</string>
     <string name="calendar_permission_rationale">Es un tanto necesario, ¡de lo contrario nada en esta aplicación podrá funcionar!</string>
@@ -27,7 +26,6 @@
     <string name="compact_mode_title">Modo compacto</string>
     <string name="even_more_compact_mode_title">Modo supercompacto</string>
     <string name="hide_declined_events">Ocultar eventos declinados</string>
-    <string name="loading">Cargando evento…</string>
     <string name="highlight_running_events">Solo resaltar eventos en progreso</string>
     <string name="events_appearance">Apariencia de los eventos</string>
     <string name="event_color_title">Color de fondo de los eventos</string>
@@ -70,4 +68,5 @@
     <string name="show_today">Mostrar eventos de hoy</string>
     <string name="show_tomorrow">Mostrar eventos de mañana</string>
     <string name="show_everything_else">Mostrar todos los eventos</string>
+    <string name="tomorrow">Mañana</string>
 </resources>

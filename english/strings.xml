@@ -18,7 +18,7 @@
     <string name="show_event_colors">Show event color label</string>
     <string name="today">Today</string>
     <string name="show_toolbar">Show toolbar</string>
-    <string name="toolbar_appearance">Toolbar appearance</string>
+    <string name="toolbar_appearance">Toolbar</string>
     <string name="toolbar_opacity">Toolbar opacity</string>
     <string name="default_toolbar_opacity_title">Reset toolbar opacity</string>
     <string name="toolbar_title_size">Title size</string>
@@ -27,7 +27,7 @@
     <string name="even_more_compact_mode_title">Super compact</string>
     <string name="hide_declined_events">Hide declined events</string>
     <string name="highlight_running_events">Only highlight running events</string>
-    <string name="events_appearance">Events appearance</string>
+    <string name="events_appearance">Events</string>
     <string name="event_color_title">Events background color</string>
     <string name="event_highlight_color_title">Highlighted events background color</string>
     <string name="rounded_events_title">Use rounded corners for events</string>
@@ -68,7 +68,6 @@
     <string name="show_today">Show today events</string>
     <string name="show_tomorrow">Show tomorrow events</string>
     <string name="show_everything_else">Show every event</string>
-    <string name="grouped_events">Grouped events</string>
     <string name="group_events">Group events</string>
     <string name="group_events_summary">Events grouped by day</string>
     <string name="rounded_events_headers_title">Use rounded background corners</string>
@@ -79,4 +78,27 @@
     <string name="preview_location" translatable="false">Location Preview</string>
     <string name="tomorrow">Tomorrow</string>
     <string name="reset_text_size">Reset title text size</string>
+    <string name="support">Support</string>
+    <string name="color_label_shape">Color label shape</string>
+    <string name="circle_title">Circle</string>
+    <string name="rectangle_title">Vertical rectangle</string>
+    <string name="list_background_color_title">Events list background color</string>
+    <string name="list_background_rounded_corners_title">Use rounded corners for the background</string>
+    <string name="list_background_padding_title">Events list inner padding</string>
+    <string name="default_list_background_appearance_title">Reset events list appearance</string>
+    <string name="twitter_title">Twitter</string>
+    <string name="twitter_summary">Tweet me your home screen setups with your widget layouts!</string>
+    <string name="my_apps">My apps</string>
+    <string name="rate_agenda">Rate Home Agenda widget!</string>
+    <string name="rounded_rectangle_title">Use rounded edges</string>
+    <string name="rounded_rectangle_summary">For the rectangle label shape</string>
+    <string name="help_with_translations">Help me with translations</string>
+    <string name="import_theme_title">Import a theme</string>
+    <string name="import_theme_summary">Load a theme to change your widget appearance. This will overwrite all your visual settings. Make sure you back yours first before trying a different theme</string>
+    <string name="export_theme_title">Save your widget theme</string>
+    <string name="export_theme_summary">Export your settings and share it with your friends… or merely save it for later 😉</string>
+    <string name="cant_open_document">Can\'t open this probably due to your device manufacturer</string>
+    <string name="choose_your_theme_name">Choose your theme name</string>
+    <string name="event_spacing_title">Spacing between events</string>
+    <string name="header_spacing_title">Spacing between the header &amp; events group</string>
 </resources>

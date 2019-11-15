@@ -8,7 +8,6 @@
     <string name="show_past_events">Прикажи минати настани</string>
     <string name="calendars">Календари</string>
     <string name="appearance">Изглед</string>
-    <string name="preview">Приказ</string>
     <string name="highlight_today_events">Означи ги денешните настани</string>
     <string name="dinner_with_sundar_pichai">Турнеја во Гугл со Сундар Пичаи &amp; ѕирни во тајната Google X компанија</string>
     <string name="calendar_permission_rationale">Ова ни треба, инаку ништо во оваа апликација нема да функционира!</string>
@@ -27,7 +26,6 @@
     <string name="compact_mode_title">Компактно</string>
     <string name="even_more_compact_mode_title">Екстра компактно</string>
     <string name="hide_declined_events">Сокриј ги откажаните настани</string>
-    <string name="loading">Вчитување на настан...</string>
     <string name="highlight_running_events">Означи ги само тековните настани</string>
     <string name="events_appearance">Изглед на настаните</string>
     <string name="event_color_title">Боја на позадина за настанот</string>

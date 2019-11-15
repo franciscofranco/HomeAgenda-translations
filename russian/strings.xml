@@ -68,7 +68,6 @@
     <string name="show_today">Показывать события на сегодня</string>
     <string name="show_tomorrow">Показывать события на завтра</string>
     <string name="show_everything_else">Показывать все события</string>
-    <string name="grouped_events">Группировка событий</string>
     <string name="group_events">Группировать события</string>
     <string name="group_events_summary">Сгруппировать события по дням</string>
     <string name="rounded_events_headers_title">Скруглять фоновые углы</string>

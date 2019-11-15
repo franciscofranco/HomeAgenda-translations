@@ -18,7 +18,7 @@
     <string name="show_event_colors">Etkinlik rengi etiketini göster</string>
     <string name="today">Bugün</string>
     <string name="show_toolbar">Araç çubuğunu göster</string>
-    <string name="toolbar_appearance">Araç çubuğu görünümü</string>
+    <string name="toolbar_appearance">Araç çubuğu</string>
     <string name="toolbar_opacity">Araç çubuğu şefaflığı</string>
     <string name="default_toolbar_opacity_title">Araç çubuğu şeffaflığını sıfırla</string>
     <string name="toolbar_title_size">Başlık boyutu</string>
@@ -27,7 +27,7 @@
     <string name="even_more_compact_mode_title">Daha fazla daralt</string>
     <string name="hide_declined_events">Reddedilen etkinlikleri gizle</string>
     <string name="highlight_running_events">Yalnızca çalışan etkinlikleri vurgula</string>
-    <string name="events_appearance">Etkinlikler görünümü</string>
+    <string name="events_appearance">Etkinlikler</string>
     <string name="event_color_title">Etkinlikler arka planı rengi</string>
     <string name="event_highlight_color_title">Vurgulanan etkinlikler arka plan rengi</string>
     <string name="rounded_events_title">Yuvarlak köşeler kullan</string>
@@ -45,7 +45,7 @@
     <string name="show_max_days_future_title">Gösterilen en fazla gün sayısı</string>
     <string name="layout_appearance_title">Etkinlikler düzeni görünümü</string>
     <string name="default_appearance">Varsayılan</string>
-	<string name="toolbar_rounded_events_title">Yuvarlak köşeler kullan</string>
+    <string name="toolbar_rounded_events_title">Yuvarlak köşeler kullan</string>
     <string name="show_weather">Hava sıcaklığını göster</string>
     <string name="temperature_type_title">Sıcaklık tipi</string>
     <string name="hide_all_day_events_title">Tüm gün etkinliklerini gizle</string>
@@ -68,7 +68,6 @@
     <string name="show_today">Bugün ki etkinlikleri göster</string>
     <string name="show_tomorrow">Yarın ki etkinlikleri göster</string>
     <string name="show_everything_else">Her etkinliği göster</string>
-	<string name="grouped_events">Gruplandırılmış etkinlikler</string>
     <string name="group_events">Grup etkinlikleri</string>
     <string name="group_events_summary">Günlere göre gruplandırılmış etkinlikler</string>
     <string name="rounded_events_headers_title">Yuvarlak arka plan köşeleri kullan</string>
@@ -79,4 +78,19 @@
     <string name="preview_location" translatable="false">Location Preview</string>
     <string name="tomorrow">Yarın</string>
     <string name="reset_text_size">Başlık metni boyutunu sıfırla</string>
+    <string name="support">Destek</string>
+    <string name="color_label_shape">Renk etiketi şekli</string>
+    <string name="circle_title">Daire</string>
+    <string name="rectangle_title">Dikey dikdörtgen</string>
+    <string name="list_background_color_title">Etkinlikler listesi arka plan rengi</string>
+    <string name="list_background_rounded_corners_title">Arka plan için yuvarlatılmış köşeler kullanın</string>
+    <string name="list_background_padding_title">Etkinlikler listesi iç dolgusu</string>
+    <string name="default_list_background_appearance_title">Etkinlikler listesi görünümünü sıfırla</string>
+    <string name="twitter_title">Twitter</string>
+    <string name="twitter_summary">Widget düzenlerinizle ana ekran kurulumlarınızı bana tweet atın!</string>
+    <string name="my_apps">Uygulamalarım</string>
+    <string name="rate_agenda">Home Agenda uygulamasını değerlendirin!</string>
+    <string name="rounded_rectangle_title">Yuvarlak kenarlar kullan</string>
+    <string name="rounded_rectangle_summary">Dikdörtgen etiket şekli için</string>
+    <string name="help_with_translations">Çevirilerde bana yardım et</string>
 </resources>
