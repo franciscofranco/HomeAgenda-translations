@@ -1,7 +1,7 @@
 <resources>
     <string name="options">Options</string>
     <string name="event_time">From %1$s to %2$s</string>
-    <string name="event_location">in %1$s</string>
+    <string name="event_location">at %1$s</string>
     <string name="meeting_with_tim_cook">Event 2 title preview</string>
     <string name="all_day">All day</string>
     <string name="time">Time</string>
