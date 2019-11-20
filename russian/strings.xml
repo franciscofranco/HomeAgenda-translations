@@ -14,7 +14,7 @@
     <string name="cancel">Отмена</string>
     <string name="calendar_permission_rationale_title">Разрешение на доступ к календарю отсутствует</string>
     <string name="welcome_title">Привет, давайте начинать!</string>
-    <string name="start">Старт</string>
+    <string name="start">Начать</string>
     <string name="show_event_colors">Показывать метку цвета события</string>
     <string name="today">Сегодня</string>
     <string name="show_toolbar">Показывать заголовок виджета</string>
@@ -71,11 +71,34 @@
     <string name="group_events">Группировать события</string>
     <string name="group_events_summary">Сгруппировать события по дням</string>
     <string name="rounded_events_headers_title">Скруглять фоновые углы</string>
-    <string name="header_background_color">Фоновый цвет заголовка</string>
-    <string name="header_opacity">Прозрачность заголовка</string>
-    <string name="header_title_text_color">Цвет текста в заголовке</string>
-    <string name="header_title_text_size">Размер текста в заголовке</string>
+    <string name="header_background_color">Фоновый цвет заголовка виджета</string>
+    <string name="header_opacity">Прозрачность заголовка виджета</string>
+    <string name="header_title_text_color">Цвет текста в заголовке виджета</string>
+    <string name="header_title_text_size">Размер текста в заголовке виджета</string>
     <string name="preview_location" translatable="false">Пример местоположения</string>
     <string name="tomorrow">Завтра</string>
     <string name="reset_text_size">Сбросить настройки размера текста</string>
+<string name="support">Поддержка</string>
+    <string name="color_label_shape">Форма цветного значка</string>
+    <string name="circle_title">Круг</string>
+    <string name="rectangle_title">Вертикальный прямоугольник</string>
+    <string name="list_background_color_title">Цвет фона для списка событий</string>
+    <string name="list_background_rounded_corners_title">Использовать скруглённые углы для фона</string>
+    <string name="list_background_padding_title">Внутренний отступ для списка событий</string>
+    <string name="default_list_background_appearance_title">Восстановить настройки по умолчанию</string>
+    <string name="twitter_title">Twitter</string>
+    <string name="twitter_summary">Посылайте мне в Twitter скриншоты ваших виджетов!</string>
+    <string name="my_apps">Мои приложения</string>
+    <string name="rate_agenda">Оцените виджет Home Agenda!</string>
+    <string name="rounded_rectangle_title">Скруглять края</string>
+    <string name="rounded_rectangle_summary">Для прямоугольной формы значка</string>
+    <string name="help_with_translations">Помогите перевести приложение на ваш язык</string>
+    <string name="import_theme_title">Импортировать тему</string>
+    <string name="import_theme_summary">Применить тему для изменения настроек виджета. Внимание, текущие настройки будут изменены! Убедитесь, что вы сохранили текущие настройки!</string>
+    <string name="export_theme_title">Сохранить тему вашего виджета</string>
+    <string name="export_theme_summary">Экспортируйте ваши настройки виджета и поделитесь ими с друзьями или сохраните их на всякий случай 😉</string>
+    <string name="cant_open_document">Не получается открыть данный файл</string>
+    <string name="choose_your_theme_name">Выберите название темы</string>
+    <string name="event_spacing_title">Расстояние между событиями</string>
+    <string name="header_spacing_title">Расстояние между заголовком виджета и событиями</string>
 </resources>
