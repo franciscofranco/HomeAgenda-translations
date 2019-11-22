@@ -1,7 +1,7 @@
 <resources>
     <string name="options">Options</string>
     <string name="event_time">From %1$s to %2$s</string>
-    <string name="event_location">in %1$s</string>
+    <string name="event_location">at %1$s</string>
     <string name="meeting_with_tim_cook">Event 2 title preview</string>
     <string name="all_day">All day</string>
     <string name="time">Time</string>
@@ -101,4 +101,7 @@
     <string name="choose_your_theme_name">Choose your theme name</string>
     <string name="event_spacing_title">Spacing between events</string>
     <string name="header_spacing_title">Spacing between the header &amp; events group</string>
+    <string name="compact_time_range_title">Compact event time range</string>
+    <string name="compact_time_range_summary">Removes the \"From\" and \"to\" from the time range string</string>
+    <string name="compact_event_time">%1$s - %2$s</string>
 </resources>

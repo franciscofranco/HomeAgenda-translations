@@ -24,4 +24,8 @@
     <string name="toolbar_title_size">Taille du titre</string>
     <string name="default_toolbar_title_size">Réinitialiser la taille du titre</string>
     <string name="compact_mode_title">Mode compact</string>
+    <string name="show_today">Afficher les évènements du jour</string>
+    <string name="show_tomorrow">Afficher les évènements du lendemain</string>
+    <string name="show_everything_else">Afficher tous les évènements</string>
+    <string name="tomorrow">Demain</string>
 </resources>
