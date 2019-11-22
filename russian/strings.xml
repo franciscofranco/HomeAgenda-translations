@@ -101,4 +101,7 @@
     <string name="choose_your_theme_name">Выберите название темы</string>
     <string name="event_spacing_title">Расстояние между событиями</string>
     <string name="header_spacing_title">Расстояние между заголовком виджета и событиями</string>
+<string name="compact_time_range_title">Компактное время события</string>
+    <string name="compact_time_range_summary">Убраиь \"С\" и \"до\" с времени события</string>
+    <string name="compact_event_time">%1$s - %2$s</string>
 </resources>
