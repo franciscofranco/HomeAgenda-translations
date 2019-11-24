@@ -15,7 +15,7 @@
     <string name="calendar_permission_rationale_title">Дозвіл на читання календаря відсутній</string>
     <string name="welcome_title">Привіт, нумо починати!</string>
     <string name="start">Почати</string>
-    <string name="show_event_colors">Показувати мітку кольору події</string>
+    <string name="show_event_colors">Показувати кольорову мітку події</string>
     <string name="today">Сьогодні</string>
     <string name="show_toolbar">Показувати панель інструментів</string>
     <string name="toolbar_appearance">Вигляд панелі інструментів</string>
@@ -30,7 +30,7 @@
     <string name="events_appearance">Вигляд подій</string>
     <string name="event_color_title">Колір фону подій</string>
     <string name="event_highlight_color_title">Колір фону виділеної подій</string>
-    <string name="rounded_events_title">Закруглені кути для подій</string>
+    <string name="rounded_events_title">Заокруглені кути для подій</string>
     <string name="event_color_opacity_title">Прозорість фону подій</string>
     <string name="highlight_event_color_opacity_title">Прозорість фону виділеної подій</string>
     <string name="no_calendar">У вас немає синхронізованих календарів</string>
@@ -53,10 +53,10 @@
     <string name="weather_channel_notif">Оновлення погоди</string>
     <string name="weather_refresh_notif_title">Служба оновлення погоди</string>
     <string name="weather_refresh_notif_summary">Ви можете затиснути повідомлення і відключити повідомлення з цього каналу.</string>
-    <string name="show_max_number_of_events_title">Найбільша кількість подій для показу</string>
-    <string name="show_calendar_icon_title">Показувати значок календаря</string>
-    <string name="show_calendar_add_event_title">Показувати значок додавання події</string>
-    <string name="show_widget_settings_title">Показувати значок налаштувань</string>
+    <string name="show_max_number_of_events_title">Максимальна кількість подій для показу</string>
+    <string name="show_calendar_icon_title">Показувати іконку календаря</string>
+    <string name="show_calendar_add_event_title">Показувати іконку додавання події</string>
+    <string name="show_widget_settings_title">Показувати іконку налаштувань</string>
     <string name="event_date_size">Розмір тексту дати</string>
     <string name="event_description_size">Розмір тексту опису</string>
     <string name="event_location_size">Розмір тексту розташування</string>
@@ -106,7 +106,7 @@
     <string name="compact_event_time">%1$s - %2$s</string>
     <string name="show_max_days_past_title">Максимальна кількість днів в минулому для показу</string>
     <string name="round_top_bottom_title">Заокруглювати пуршу та останню події групи</string>
-    <string name="round_top_bottom_summary">Закруглені лише верхній і нижній кути події. Якщо у вас активовані \"Групування подій\", зміни поведінки залежать від того, чи є у вас напівпрозорий заголовок чи ні. Якщо він напівпрозорий, то першга подія буде заокруглена, але якщо він не напівпрозорий, закруглений кут пошириться і на заголовок (якщо кути заголовків заокруглені), щоб перехід був безшовним</string>
+    <string name="round_top_bottom_summary">Заокруглені лише верхній і нижній кути події. Якщо у вас активовані \"Групування подій\", зміни поведінки залежать від того, чи є у вас напівпрозорий заголовок чи ні. Якщо він напівпрозорий, то першга подія буде заокруглена, але якщо він не напівпрозорий, закруглений кут пошириться і на заголовок (якщо кути заголовків заокруглені), щоб перехід був безшовним</string>
     <string name="group_header_example">Заголовок групи</string>
     <string name="send_feedback">Надіслати відгук</string>
 </resources>
