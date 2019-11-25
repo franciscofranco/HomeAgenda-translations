@@ -95,7 +95,7 @@
     <string name="help_with_translations">Ajuda-me com as traduções</string>
     <string name="import_theme_title">Importa um tema</string>
     <string name="import_theme_summary">Carrega um tema para alterar a aparência do widget. Isto irá apagar o teu tema atual. Certifica-te de que guardas uma cópia de segurança do teu antes de experimentares um tema diferente</string>
-    <string name="export_theme_title">Guarda o teu teu tema</string>
+    <string name="export_theme_title">Guarda o teu tema</string>
     <string name="export_theme_summary">Exporta o teu tema e partilha-o com os teus amigos… ou simplesmente guarda-o para mais tarde 😉</string>
     <string name="cant_open_document">Não é possível abrir o ficheiro</string>
     <string name="choose_your_theme_name">Introduz um nome para o teu tema</string>
