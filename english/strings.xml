@@ -109,4 +109,22 @@
     <string name="round_top_bottom_summary">Only the top and bottom event corners will be rounded. If you have \"Group Events\" enabled the behavior changes based on if you have a translucent header or not. If it\'s translucent the first event after the header will be rounded, but if it\'s not translucent the rounded corner will extend to the header (and it needs to have rounded corners enabled for the headers) to create a seamless surface</string>
     <string name="group_header_example">Group header title</string>
     <string name="send_feedback">Send feedback</string>
+    <string name="reddit_title">Join the reddit community!</string>
+    <string name="reddit_summary">Share your widget theme or import themes from other users setups</string>
+    <string name="show_weather_icon">Show weather icon</string>
+    <string name="weather_text_size_title">Temperature text size</string>
+    <string name="reset_weather_text_size">Reset temperature text size</string>
+    <string name="toolbar_actions_title">Action when clicking the toolbar title</string>
+    <string name="scroll_to_today">Scroll to today</string>
+    <string name="open_calendar">Open calendar</string>
+    <string name="new_event">New event</string>
+    <string name="open_settings">Open settings</string>
+    <string name="toolbar_date_format">Date format</string>
+    <string name="show_date">Show date</string>
+    <string name="show_weekday">Show weekday</string>
+    <string name="abbreviate_month">Compact month</string>
+    <string name="abbreviate_weekday">Compact weekday</string>
+    <string name="show_week_number">Show week number</string>
+    <string name="week_number">week %1$d</string>
+    <string name="none">None</string>
 </resources>
