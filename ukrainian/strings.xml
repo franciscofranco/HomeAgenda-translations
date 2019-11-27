@@ -109,4 +109,22 @@
     <string name="round_top_bottom_summary">Лише верхні і нижні кути події будуть заокруглені. Якщо активовано \"Групування подій\", поведінка зміниться залежать від того, чи є у вас напівпрозорий заголовок чи ні. Якщо він напівпрозорий, то першга подія буде заокруглена, але якщо він не напівпрозорий, закруглення кутів пошириться і на заголовок (заокруглення кутів для заголовків має бути активоване), щоб перехід був безшовним</string>
     <string name="group_header_example">Заголовок групи</string>
     <string name="send_feedback">Надіслати відгук</string>
+    <string name="reddit_title">Приєднуйтесь до спільноти reddit!</string>
+    <string name="reddit_summary">Діліться своєю темою або імпортуйте теми інших користувачів</string>
+    <string name="show_weather_icon">Показати значок погоди</string>
+    <string name="weather_text_size_title">Розмір тексту температури</string>
+    <string name="reset_weather_text_size">Скинути розмір тексту температури</string>
+    <string name="toolbar_actions_title">Дія при натисканні заголовка панелі інструментів</string>
+    <string name="scroll_to_today">Перейти до сьогодні</string>
+    <string name="open_calendar">Відкрити календар</string>
+    <string name="new_event">Нова подія</string>
+    <string name="open_settings">Відкрити налаштування</string>
+    <string name="toolbar_date_format">Формат дати</string>
+    <string name="show_date">Показати дату</string>
+    <string name="show_weekday">Показати день тижня</string>
+    <string name="abbreviate_month">Скорочений місяць</string>
+    <string name="abbreviate_weekday">Скорочений день тижня</string>
+    <string name="show_week_number">Показати номер тижня</string>
+    <string name="week_number">тиждень %1$d</string>
+    <string name="none">Нічого</string>
 </resources>
