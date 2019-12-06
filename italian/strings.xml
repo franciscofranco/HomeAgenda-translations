@@ -94,7 +94,7 @@
     <string name="rounded_rectangle_summary">Per la label rettangolare</string>
     <string name="help_with_translations">Aiutami con le traduzioni</string>
     <string name="import_theme_title">Importa tema</string>
-    <string name="import_theme_summary">Carica un tema per cambiare l'aspetto della widget. Questo sovrascriverà tutte le tue impostazioni grafiche. Assicurati di salvare la tua prima di provare un tema diverso</string>
+    <string name="import_theme_summary">Carica un tema per cambiare l\'aspetto della widget. Questo sovrascriverà tutte le tue impostazioni grafiche. Assicurati di salvare la tua prima di provare un tema diverso</string>
     <string name="export_theme_title">Save il tuo tema</string>
     <string name="export_theme_summary">Esporta le tue impostazioni e condividile con i tuoi amici oppure salvale per usarle successivamente 😉</string>
     <string name="cant_open_document">Non riesco ad aprire questo file, probabilmente a causa del produttore del tuo device</string>
@@ -102,11 +102,11 @@
     <string name="event_spacing_title">Spaziatura tra eventi</string>
     <string name="header_spacing_title">Spaziatura tra intestazione e gruppo eventi</string>
     <string name="compact_time_range_title">Usa intervallo di tempo compatto</string>
-    <string name="compact_time_range_summary">Rimuove \"Data\" e \"a\" dal testo dell'intervallo di tempo</string>
+    <string name="compact_time_range_summary">Rimuove \"Data\" e \"a\" dal testo dell\'intervallo di tempo</string>
     <string name="compact_event_time">%1$s - %2$s</string>
     <string name="show_max_days_past_title">Numero massimo di giorni nel passato da ottenere</string>
-    <string name="round_top_bottom_title">Arrotonta il primo e l'ultimo evento del/i gruppo/i</string>
-    <string name="round_top_bottom_summary">Verranno arrotondati gli angoli solo del primo e dell'ultimo evento. Se hai abilitato \"Eventi raggruppati\" il comportamento cambia in base alla trasparenza dell'intestazione. Se ha trasparanza il primo evento dopo l'intestazione sarà arrotondato, ma se non ha trasparenza l'angolo arrotondato sarà esteso all'intestazione (che deve avere abilitati gli angoli arrotondati) per creare una superficie continua</string>
+    <string name="round_top_bottom_title">Arrotonta il primo e l\'ultimo evento del/i gruppo/i</string>
+    <string name="round_top_bottom_summary">Verranno arrotondati gli angoli solo del primo e dell\'ultimo evento. Se hai abilitato \"Eventi raggruppati\" il comportamento cambia in base alla trasparenza dell\'intestazione. Se ha trasparanza il primo evento dopo l\'intestazione sarà arrotondato, ma se non ha trasparenza l\'angolo arrotondato sarà esteso all\'intestazione (che deve avere abilitati gli angoli arrotondati) per creare una superficie continua</string>
     <string name="group_header_example">Titolo intestazione raggruppamento</string>
     <string name="send_feedback">Invia segnalazione</string>
     <string name="reddit_title">Unisciti alla comunità su reddit!</string>
