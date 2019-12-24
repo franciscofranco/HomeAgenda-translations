@@ -93,7 +93,6 @@
     <string name="rounded_rectangle_title">Gunakan tepian membulat</string>
     <string name="rounded_rectangle_summary">Untuk bentuk label segi empat</string>
     <string name="help_with_translations">Bantu saya dengan menterjemahkan</string>
-    	
     <string name="import_theme_title">Impor tema</string>
     <string name="import_theme_summary">Muat tema untuk mengubah tampilan widget Anda. Ini akan menimpa semua pengaturan visual Anda. Pastikan Anda meninjau ulang terlebih dahulu sebelum mencoba tema yang berbeda</string>
     <string name="export_theme_title">Simpan widget tema Anda</string>
