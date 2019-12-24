@@ -93,5 +93,40 @@
     <string name="rounded_rectangle_title">Gunakan tepian membulat</string>
     <string name="rounded_rectangle_summary">Untuk bentuk label segi empat</string>
     <string name="help_with_translations">Bantu saya dengan menterjemahkan</string>
+    <string name="import_theme_title">Import a theme</string>
+    <string name="import_theme_summary">Load a theme to change your widget appearance. This will overwrite all your visual settings. Make sure you back yours first before trying a different theme</string>
+    <string name="export_theme_title">Save your widget theme</string>
+    <string name="export_theme_summary">Export your settings and share it with your friends… or merely save it for later 😉</string>
+    <string name="cant_open_document">Can\'t open this probably due to your device manufacturer</string>
+    <string name="choose_your_theme_name">Choose your theme name</string>
+    <string name="event_spacing_title">Spacing between events</string>
+    <string name="header_spacing_title">Spacing between the header &amp; events group</string>
+    <string name="compact_time_range_title">Compact event time range</string>
+    <string name="compact_time_range_summary">Removes the \"From\" and \"to\" from the time range string</string>
+    <string name="compact_event_time">%1$s - %2$s</string>
+    <string name="show_max_days_past_title">Max number of days in the past to query</string>
+    <string name="round_top_bottom_title">Round the first and the last event of the group(s)</string>
+    <string name="round_top_bottom_summary">Only the top and bottom event corners will be rounded. If you have \"Group Events\" enabled the behavior changes based on if you have a translucent header or not. If it\'s translucent the first event after the header will be rounded, but if it\'s not translucent the rounded corner will extend to the header (and it needs to have rounded corners enabled for the headers) to create a seamless surface</string>
+    <string name="group_header_example">Group header title</string>
+    <string name="send_feedback">Send feedback</string>
+    <string name="reddit_title">Join the reddit community!</string>
+    <string name="reddit_summary">Share your widget theme or import themes from other users setups</string>
+    <string name="show_weather_icon">Show weather icon</string>
+    <string name="weather_text_size_title">Temperature text size</string>
+    <string name="reset_weather_text_size">Reset temperature text size</string>
+    <string name="toolbar_actions_title">Action when clicking the toolbar title</string>
+    <string name="scroll_to_today">Scroll to today</string>
+    <string name="open_calendar">Open calendar</string>
+    <string name="new_event">New event</string>
+    <string name="open_settings">Open settings</string>
+    <string name="toolbar_date_format">Date format</string>
+    <string name="show_date">Show date</string>
+    <string name="show_weekday">Show weekday</string>
+    <string name="abbreviate_month">Compact month</string>
+    <string name="abbreviate_weekday">Compact weekday</string>
+    <string name="show_week_number">Show week number</string>
+    <string name="week_number">week %1$d</string>
+    <string name="none">None</string>
+</resources>
 </resources>
 
