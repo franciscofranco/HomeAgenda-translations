@@ -46,13 +46,8 @@
     <string name="layout_appearance_title">Begivenheders layout udseende</string>
     <string name="default_appearance">Standard</string>
     <string name="toolbar_rounded_events_title">Brug afrundede hjørner</string>
-    <string name="show_weather">Vis vejrets temperatur</string>
-    <string name="temperature_type_title">Temperatur type</string>
     <string name="hide_all_day_events_title">Skjul heldags-begivenheder</string>
-    <string name="show_weather_summary">Vejr informationer fra Google Play Services er ikke altid 100% nøjagtige. Det opdateres kun en gang hver anden time og/eller hvis din lokation skifter. Det bruger den sidst kendte placering for at hente vejrdataene, så du skal have Placering aktiveret.</string>
     <string name="weather_channel_notif">Opdatering af vejr</string>
-    <string name="weather_refresh_notif_title">Tjeneste til opdatering af vejr</string>
-    <string name="weather_refresh_notif_summary">Du kan holde fingeren nede på dette og deaktivere nofitikations-kanalen, for at fjerne denne type notifikationer</string>
     <string name="show_max_number_of_events_title">Maksimalt antal af begivenheder vist</string>
     <string name="show_calendar_icon_title">Vis kalender ikon</string>
     <string name="show_calendar_add_event_title">Vis tilføj begivenhed ikon</string>
@@ -111,9 +106,6 @@
     <string name="send_feedback">Send feedback</string>
     <string name="reddit_title">Deltag i Reddit fællesskabet!</string>
     <string name="reddit_summary">Del dit widget tema, eller importer temaer fra andre brugeres opsætninger</string>
-    <string name="show_weather_icon">Vis vejrikon</string>
-    <string name="weather_text_size_title">Tekststørrelse på temperatur</string>
-    <string name="reset_weather_text_size">Nulstil tekststørrelse på temperatur</string>
     <string name="toolbar_actions_title">Handling når der trykkes på værktøjslinjens titel</string>
     <string name="scroll_to_today">Scroll til i dag</string>
     <string name="open_calendar">Åbn kalender</string>
@@ -127,4 +119,7 @@
     <string name="show_week_number">Vis ugenummer</string>
     <string name="week_number">uge %1$d</string>
     <string name="none">Ingen</string>
+    <string name="calendar_refresh_service">Opdateringstjeneste til kalenderen</string>
+    <string name="calendar_refresh_service_description">Ansvarlig for at lytte efter ændringer i kalenderbegivenheder, samt opdatere widget'en i overensstemmelse hermed</string>
+    <string name="show_force_sync_title">Vis ikon til tvang af synkronisering</string>
 </resources>
