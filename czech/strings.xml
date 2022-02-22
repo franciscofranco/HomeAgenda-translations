@@ -1,7 +1,7 @@
 <resources>
     <string name="options">Nastavení</string>
     <string name="event_time">Od %1$s do %2$s</string>
-    <string name="event_location">za %1$s</string>
+    <string name="event_location">na místě %1$s</string>
     <string name="meeting_with_tim_cook">Oběd s Timem Cookem</string>
     <string name="all_day">Celý den</string>
     <string name="time">Čas</string>
