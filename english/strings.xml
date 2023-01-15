@@ -89,7 +89,7 @@
     <string name="rounded_rectangle_summary">For the rectangle label shape</string>
     <string name="help_with_translations">Help me with translations</string>
     <string name="import_theme_title">Import a theme</string>
-    <string name="import_theme_summary">Load a theme to change your widget appearance. This will overwrite all your visual settings. Make sure you back yours first before trying a different theme</string>
+    <string name="import_theme_summary">Load a theme to change your widget appearance. This will overwrite all your visual settings. Make sure you save your current widget theme before trying a different theme</string>
     <string name="export_theme_title">Save your widget theme</string>
     <string name="export_theme_summary">Export your settings and share it with your friends… or merely save it for later 😉</string>
     <string name="cant_open_document">Can\'t open this probably due to your device manufacturer</string>
@@ -101,7 +101,7 @@
     <string name="compact_event_time">%1$s - %2$s</string>
     <string name="show_max_days_past_title">Max number of days in the past to query</string>
     <string name="round_top_bottom_title">Round the first and the last event of the group(s)</string>
-    <string name="round_top_bottom_summary">Only the top and bottom event corners will be rounded. If you have \"Group Events\" enabled the behavior changes based on if you have a translucent header or not. If it\'s translucent the first event after the header will be rounded, but if it\'s not translucent the rounded corner will extend to the header (and it needs to have rounded corners enabled for the headers) to create a seamless surface</string>
+    <string name="round_top_bottom_summary">Only the top and bottom event corners will be rounded. If you have \"Group events\" enabled the behavior changes based on if you have a translucent header or not. If it\'s translucent the first event after the header will be rounded, but if it\'s not translucent the rounded corner will extend to the header (and it needs to have rounded corners enabled for the headers) to create a seamless surface</string>
     <string name="group_header_example">Group header title</string>
     <string name="send_feedback">Send feedback</string>
     <string name="reddit_title">Join the reddit community!</string>
